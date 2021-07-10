@@ -7,3 +7,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDyingDuck&layout=compact&theme=material-palenight" />
 </a>
 
+# About Me
+### I don't do much, I like Python & Lua I guess, learning some C++ in the wrong order.
